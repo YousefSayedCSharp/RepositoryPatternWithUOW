@@ -1,0 +1,15 @@
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net5.0\RepositoryPatternWithUOW.EF.deps.json
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net5.0\RepositoryPatternWithUOW.EF.runtimeconfig.json
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net5.0\RepositoryPatternWithUOW.EF.runtimeconfig.dev.json
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net5.0\RepositoryPatternWithUOW.EF.dll
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net5.0\ref\RepositoryPatternWithUOW.EF.dll
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net5.0\RepositoryPatternWithUOW.EF.pdb
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net5.0\RepositoryPatternWithUOW.EF.csproj.AssemblyReference.cache
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net5.0\RepositoryPatternWithUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net5.0\RepositoryPatternWithUOW.EF.AssemblyInfoInputs.cache
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net5.0\RepositoryPatternWithUOW.EF.AssemblyInfo.cs
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net5.0\RepositoryPatternWithUOW.EF.csproj.CoreCompileInputs.cache
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net5.0\RepositoryPatternWithUOW.EF.dll
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net5.0\ref\RepositoryPatternWithUOW.EF.dll
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net5.0\RepositoryPatternWithUOW.EF.pdb
+C:\Users\Yousef Sayed\source\repos\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net5.0\RepositoryPatternWithUOW.EF.genruntimeconfig.cache
